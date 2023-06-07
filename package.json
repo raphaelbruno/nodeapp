@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/raphaelbruno/nodeapp/issues"
   },
-  "homepage": "https://github.com/raphaelbruno/nodeapp#readme"
+  "homepage": "https://github.com/raphaelbruno/nodeapp#readme",
+  "dependencies": {
+    "nodelib": "github:raphaelbruno/nodelib"
+  }
 }
