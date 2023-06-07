@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Simple app using nodelib",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelbruno/nodeapp.git"
+  },
+  "keywords": [
+    "simple",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelbruno/nodeapp/issues"
+  },
+  "homepage": "https://github.com/raphaelbruno/nodeapp#readme"
+}
